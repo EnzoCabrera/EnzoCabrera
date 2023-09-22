@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-![snake gif](https://github.com/EnzoCabrera/EnzoCabrera/blob/output/github-contribution-grid-snake.svg)
+
   <br>
 
   
