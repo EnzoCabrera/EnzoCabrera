@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=PostgreSQL,github,python,javascript,mongodb,c++,java" /><br>
+    <img src="https://skillicons.dev/icons?i=PostgreSQL,github,python,javascript,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=MongoDB,Postman API, Spring Boot,mysql,vscode,git, c++" />
 </div>
 
