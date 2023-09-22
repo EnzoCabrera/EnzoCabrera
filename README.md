@@ -1,34 +1,30 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EnzoCabrera.EnzoCabrera" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Enzo+Cabrera!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Brazil 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **Some Spring Boot projects**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Spring Boot, JavaScript and AWS**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 💬 Ask me about **Java, MySQL, Spring Boot, MongoDB... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
  
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:enzo2005cabrera@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/enzo-nascimento-a03263272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=PostgreSQL,github,python,javascript,mongodb,c++,java" /><br>
+    <img src="https://skillicons.dev/icons?i=mongoDB,Postman API, Spring Boot,mysql,vscode,git" />
 </div>
 
 <br/>
