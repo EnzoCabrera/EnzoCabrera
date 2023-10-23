@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Django projects**
  
- 🌱 I’m currently learning **Pytho and Django**
+ 🌱 I’m currently learning **Python and Django**
 
- 💬 Ask me about **Java,  Spring Boot, MySQL, MongoDB... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
+ 💬 Ask me about **Java, Spring Boot, MySQL, MongoDB... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
  
  </div>
  
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,python,SpringBoot,python,django" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,SpringBoot,django" />
 </div>
 
 <br/>
