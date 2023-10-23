@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,SpringBoot,django" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,SpringBoot,django,postgresql" />
 </div>
 
 <br/>
