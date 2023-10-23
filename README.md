@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Spring Boot projects**
+ 🔭 I’m currently working on **Django projects**
  
- 🌱 I’m currently learning **AWS, JavaScript, Spring Boot**
+ 🌱 I’m currently learning **Pytho and Django**
 
  💬 Ask me about **Java,  Spring Boot, MySQL, MongoDB... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
  
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,python,SpringBoot" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,python,SpringBoot,python,django" />
 </div>
 
 <br/>
