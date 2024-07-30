@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Django projects**
+ 🔭 I’m currently working on **Flutter projects**
  
- 🌱 I’m currently learning **Python and Django**
+ 🌱 I’m currently learning **Flutter and Cloud AWS**
 
- 💬 Ask me about **Java, Spring Boot, MySQL, MongoDB... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
+ 💬 Ask me about **Flutter, Cloud AWS, SQLServer, OracleSQL, PostgreSQL, MySQL... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
  
  </div>
  
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,javascript,mongodb,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,postgresql,spring,django" />
+    <img src="https://skillicons.dev/icons?i=flutter,sqlserver,oraclesql,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,postgresql,spring" />
 </div>
 
 <br/>
