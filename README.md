@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,sqlserver,oracle,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,postgresql,spring" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,postgresql" />
 </div>
 
 <br/>
