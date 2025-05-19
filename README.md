@@ -1,4 +1,4 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EnzoCabrera.EnzoCabrera" />
+d <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EnzoCabrera.EnzoCabrera" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Enzo+Cabrera!;" />
@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Flutter projects**
+ 🔭 I’m currently working on **Python projects**
  
- 🌱 I’m currently learning **Flutter and Cloud AWS**
+ 🌱 I’m currently learning **Python**
 
- 💬 Ask me about **Flutter, Cloud AWS, SQLServer, OracleSQL, PostgreSQL, MySQL... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
+ 💬 Ask me about **Python, Cloud AWS, PostgreSQL, Java, Flutter... or anything [here](https://github.com/EnzoCabrera/EnzoCabrera/issues)**
  
  </div>
  
