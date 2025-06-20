@@ -33,8 +33,8 @@ d <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EnzoCabr
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,aws,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,java,spring" />
+    <img src="https://skillicons.dev/icons?i=py,aws,postgresql,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,mysql,java,spring" />
 </div>
 
 <br/>
